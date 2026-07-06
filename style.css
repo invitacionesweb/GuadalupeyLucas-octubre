@@ -302,7 +302,7 @@ audio::-webkit-media-controls-current-time-display {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: end;
+    justify-content: top;
     padding-top: 50px;
 }
 .quote2 h3 {
